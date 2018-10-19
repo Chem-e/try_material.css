@@ -1,0 +1,68 @@
+body{
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+.logoImage{
+	height: 80px;
+	width:90px;
+	
+}
+
+.writing{
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 25px;
+}
+#h2, h1,p{
+	font-family: 'Pacifico', cursive;
+}
+#dora{
+	height: 250px;
+	width: 250px;
+}
+.gap{
+	height: 200px
+}
+.size{
+	border:5px solid #003366;
+	height:350px;
+	width:95% !important;
+	margin: 30px;
+}
+.footer{
+	font-family: 'Pacifico', cursive;
+	font-size: 25px;
+}
+
+.infants{
+	width:70%;
+	height: 200px;
+}
+.feet{
+	height: 70px;
+	width: 70px;
+}
+.customize{
+	width: 300px;
+	border:5px solid #ffeb3b ;
+
+}
+.cards{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.card-img{
+	height: 250px;
+	width: 290px !important;
+	
+}
+
+.pointer{
+	cursor: pointer;
+}
+
+.ico{
+	font-size: 25px;
+}
